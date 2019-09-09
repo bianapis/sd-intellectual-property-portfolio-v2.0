@@ -1,0 +1,20 @@
+{
+  "intellectualPropertyAssetAdministrativePlanUpdateActionTaskReference" : "IPAAPUATR711484",
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "intellectualPropertyAssetRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "intellectualPropertyAssetType" : "intellectualPropertyAssetType",
+      "intellectualPropertyAssetDescription" : "intellectualPropertyAssetDescription",
+      "intellectualPropertyAssetJurisdiction" : "intellectualPropertyAssetJurisdiction",
+      "intellectualPropertyAssetTitle" : "intellectualPropertyAssetTitle",
+      "intellectualPropertyAssetCreator" : "intellectualPropertyAssetCreator",
+      "intellectualPropertyAssetValuation" : "intellectualPropertyAssetValuation",
+      "documentDirectoryEntryInstanceReference" : "748491"
+    },
+    "intellectualPropertyAssetReference" : "718209"
+  },
+  "intellectualPropertyAssetAdministrativePlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

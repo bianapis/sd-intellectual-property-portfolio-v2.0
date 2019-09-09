@@ -1,0 +1,30 @@
+{
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "intellectualPropertyAssetRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "intellectualPropertyAssetType" : "intellectualPropertyAssetType",
+      "intellectualPropertyAssetDescription" : "intellectualPropertyAssetDescription",
+      "intellectualPropertyAssetJurisdiction" : "intellectualPropertyAssetJurisdiction",
+      "intellectualPropertyAssetTitle" : "intellectualPropertyAssetTitle",
+      "intellectualPropertyAssetCreator" : "intellectualPropertyAssetCreator",
+      "intellectualPropertyAssetValuation" : "intellectualPropertyAssetValuation",
+      "documentDirectoryEntryInstanceReference" : "733885"
+    },
+    "intellectualPropertyAssetReference" : "748596"
+  },
+  "intellectualPropertyAssetAdministrativePlanInstanceReportRecord" : {
+    "intellectualPropertyAssetAdministrativePlanInstanceReportData" : "intellectualPropertyAssetAdministrativePlanInstanceReportData",
+    "intellectualPropertyAssetAdministrativePlanInstanceReport" : {},
+    "intellectualPropertyAssetAdministrativePlanInstanceReportType" : "intellectualPropertyAssetAdministrativePlanInstanceReportType"
+  },
+  "intellectualPropertyAssetAdministrativePlanRetrieveActionTaskReference" : "IPAAPRATR731520",
+  "intellectualPropertyAssetAdministrativePlanRetrieveActionTaskRecord" : {},
+  "intellectualPropertyAssetAdministrativePlanRetrieveActionResponse" : "intellectualPropertyAssetAdministrativePlanRetrieveActionResponse",
+  "intellectualPropertyAssetAdministrativePlanInstanceAnalysis" : {
+    "intellectualPropertyAssetAdministrativePlanInstanceAnalysisReportType" : "intellectualPropertyAssetAdministrativePlanInstanceAnalysisReportType",
+    "intellectualPropertyAssetAdministrativePlanInstanceAnalysisReport" : {},
+    "intellectualPropertyAssetAdministrativePlanInstanceAnalysisData" : "intellectualPropertyAssetAdministrativePlanInstanceAnalysisData"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "assignmentUpdateActionTaskRecord" : {},
+  "assignmentInstanceRecord" : {
+    "intellectualPropertyAssetAssignmentSchedule" : "intellectualPropertyAssetAssignmentSchedule",
+    "intellectualPropertyAssetAssignmentRecord" : {
+      "intellectualPropertyAssetAssignmentTransaction" : "intellectualPropertyAssetAssignmentTransaction",
+      "intellectualPropertyAssetAssignmentType" : "intellectualPropertyAssetAssignmentType",
+      "documentDirectoryEntryInstanceReference" : "737599",
+      "intellectualPropertyAssetAssignmentDescription" : "intellectualPropertyAssetAssignmentDescription"
+    }
+  },
+  "assignmentUpdateActionTaskReference" : "AUATR705779",
+  "updateResponseRecord" : {}
+}

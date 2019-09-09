@@ -1,0 +1,18 @@
+{
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "intellectualPropertyAssetRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "intellectualPropertyAssetType" : "intellectualPropertyAssetType",
+      "intellectualPropertyAssetJurisdiction" : "intellectualPropertyAssetJurisdiction",
+      "intellectualPropertyAssetTitle" : "intellectualPropertyAssetTitle",
+      "intellectualPropertyAssetValuation" : "intellectualPropertyAssetValuation",
+      "documentDirectoryEntryInstanceReference" : "707649"
+    }
+  },
+  "intellectualPropertyAssetAdministrativePlanInitiateActionRecord" : {},
+  "intellectualPropertyAssetAdministrativePlanInstanceReference" : "IPAAPIR799215",
+  "intellectualPropertyAssetAdministrativePlanInitiateActionReference" : "IPAAPIAR783132",
+  "intellectualPropertyAssetAdministrativePlanInstanceStatus" : "intellectualPropertyAssetAdministrativePlanInstanceStatus"
+}

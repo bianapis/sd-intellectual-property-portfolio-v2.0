@@ -1,0 +1,22 @@
+{
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "maintenanceInstanceRecord" : {
+    "intellectualPropertyAssetRegistrationReference" : "736338",
+    "intellectualPropertyAssetMaintenanceTaskRecord" : {
+      "intellectualPropertyAssetMaintenanceTaskType" : "intellectualPropertyAssetMaintenanceTaskType",
+      "intellectualPropertyAssetMaintenanceTaskWorkProducts" : "intellectualPropertyAssetMaintenanceTaskWorkProducts",
+      "intellectualPropertyAssetMaintenanceTransaction" : "intellectualPropertyAssetMaintenanceTransaction",
+      "intellectualPropertyAssetMaintenanceTaskDescription" : "intellectualPropertyAssetMaintenanceTaskDescription",
+      "documentDirectoryEntryInstanceReference" : "782193"
+    },
+    "intellectualPropertyAssetMaintenanceSchedule" : "intellectualPropertyAssetMaintenanceSchedule",
+    "intellectualPropertyAssetProtectionReference" : "728341"
+  },
+  "maintenanceUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "maintenanceUpdateActionTaskReference" : "MUATR764495"
+}

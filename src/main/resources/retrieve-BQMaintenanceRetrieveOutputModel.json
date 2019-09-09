@@ -1,0 +1,44 @@
+{
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "intellectualPropertyAssetRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "intellectualPropertyAssetType" : "intellectualPropertyAssetType",
+      "intellectualPropertyAssetDescription" : "intellectualPropertyAssetDescription",
+      "intellectualPropertyAssetJurisdiction" : "intellectualPropertyAssetJurisdiction",
+      "intellectualPropertyAssetTitle" : "intellectualPropertyAssetTitle",
+      "intellectualPropertyAssetCreator" : "intellectualPropertyAssetCreator",
+      "intellectualPropertyAssetValuation" : "intellectualPropertyAssetValuation",
+      "documentDirectoryEntryInstanceReference" : "730888"
+    },
+    "intellectualPropertyAssetReference" : "764871"
+  },
+  "maintenanceRetrieveActionTaskRecord" : {},
+  "maintenanceInstanceRecord" : {
+    "intellectualPropertyAssetRegistrationReference" : "769755",
+    "intellectualPropertyAssetMaintenanceTaskRecord" : {
+      "intellectualPropertyAssetMaintenanceTaskType" : "intellectualPropertyAssetMaintenanceTaskType",
+      "intellectualPropertyAssetMaintenanceTaskWorkProducts" : "intellectualPropertyAssetMaintenanceTaskWorkProducts",
+      "intellectualPropertyAssetMaintenanceTransaction" : "intellectualPropertyAssetMaintenanceTransaction",
+      "intellectualPropertyAssetMaintenanceTaskDescription" : "intellectualPropertyAssetMaintenanceTaskDescription",
+      "documentDirectoryEntryInstanceReference" : "779108"
+    },
+    "intellectualPropertyAssetMaintenanceSchedule" : "intellectualPropertyAssetMaintenanceSchedule",
+    "intellectualPropertyAssetProtectionReference" : "725378"
+  },
+  "maintenanceRetrieveActionTaskReference" : "MRATR752463",
+  "maintenanceInstanceReport" : {
+    "maintenanceInstanceReportRecord" : {},
+    "maintenanceInstanceReportParameters" : "maintenanceInstanceReportParameters",
+    "maintenanceInstanceReportType" : "maintenanceInstanceReportType",
+    "maintenanceInstanceReport" : {}
+  },
+  "maintenanceInstanceAnalysis" : {
+    "maintenanceInstanceAnalysisRecord" : {},
+    "maintenanceInstanceAnalysisReport" : {},
+    "maintenanceInstanceAnalysisReportType" : "maintenanceInstanceAnalysisReportType",
+    "maintenanceInstanceAnalysisParameters" : "maintenanceInstanceAnalysisParameters"
+  },
+  "maintenanceRetrieveActionResponse" : "maintenanceRetrieveActionResponse"
+}

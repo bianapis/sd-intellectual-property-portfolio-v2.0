@@ -1,0 +1,41 @@
+{
+  "assignmentRetrieveActionTaskReference" : "ARATR737932",
+  "assignmentInstanceAnalysis" : {
+    "assignmentInstanceAnalysisReportType" : "assignmentInstanceAnalysisReportType",
+    "assignmentInstanceAnalysisReport" : {},
+    "assignmentInstanceAnalysisRecord" : {},
+    "assignmentInstanceAnalysisParameters" : "assignmentInstanceAnalysisParameters"
+  },
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "intellectualPropertyAssetRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "intellectualPropertyAssetType" : "intellectualPropertyAssetType",
+      "intellectualPropertyAssetDescription" : "intellectualPropertyAssetDescription",
+      "intellectualPropertyAssetJurisdiction" : "intellectualPropertyAssetJurisdiction",
+      "intellectualPropertyAssetTitle" : "intellectualPropertyAssetTitle",
+      "intellectualPropertyAssetCreator" : "intellectualPropertyAssetCreator",
+      "intellectualPropertyAssetValuation" : "intellectualPropertyAssetValuation",
+      "documentDirectoryEntryInstanceReference" : "775204"
+    },
+    "intellectualPropertyAssetReference" : "786638"
+  },
+  "assignmentInstanceRecord" : {
+    "intellectualPropertyAssetAssignmentSchedule" : "intellectualPropertyAssetAssignmentSchedule",
+    "intellectualPropertyAssetAssignmentRecord" : {
+      "intellectualPropertyAssetAssignmentTransaction" : "intellectualPropertyAssetAssignmentTransaction",
+      "intellectualPropertyAssetAssignmentType" : "intellectualPropertyAssetAssignmentType",
+      "documentDirectoryEntryInstanceReference" : "713101",
+      "intellectualPropertyAssetAssignmentDescription" : "intellectualPropertyAssetAssignmentDescription"
+    }
+  },
+  "assignmentInstanceReport" : {
+    "assignmentInstanceReportType" : "assignmentInstanceReportType",
+    "assignmentInstanceReportParameters" : "assignmentInstanceReportParameters",
+    "assignmentInstanceReportRecord" : {},
+    "assignmentInstanceReport" : {}
+  },
+  "assignmentRetrieveActionTaskRecord" : {},
+  "assignmentRetrieveActionResponse" : "assignmentRetrieveActionResponse"
+}

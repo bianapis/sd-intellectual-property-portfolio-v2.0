@@ -1,0 +1,18 @@
+{
+  "maintenanceRequestActionTaskRecord" : {},
+  "maintenanceRequestActionTaskReference" : "MRATR757405",
+  "maintenanceInstanceRecord" : {
+    "intellectualPropertyAssetRegistrationReference" : "720592",
+    "intellectualPropertyAssetMaintenanceTaskRecord" : {
+      "intellectualPropertyAssetMaintenanceTaskType" : "intellectualPropertyAssetMaintenanceTaskType",
+      "intellectualPropertyAssetMaintenanceTaskWorkProducts" : "intellectualPropertyAssetMaintenanceTaskWorkProducts",
+      "intellectualPropertyAssetMaintenanceTransaction" : "intellectualPropertyAssetMaintenanceTransaction",
+      "intellectualPropertyAssetMaintenanceTaskDescription" : "intellectualPropertyAssetMaintenanceTaskDescription",
+      "documentDirectoryEntryInstanceReference" : "787032"
+    },
+    "intellectualPropertyAssetMaintenanceSchedule" : "intellectualPropertyAssetMaintenanceSchedule",
+    "intellectualPropertyAssetProtectionReference" : "733744"
+  },
+  "maintenanceRequestRecordReference" : "MRRR776089",
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,22 @@
+{
+  "intellectualPropertyAssetAdministrativePlanInstanceRecord" : {
+    "intellectualPropertyAssetRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      }
+    }
+  },
+  "assignmentInstanceRecord" : {
+    "intellectualPropertyAssetAssignmentSchedule" : "intellectualPropertyAssetAssignmentSchedule",
+    "intellectualPropertyAssetAssignmentRecord" : {
+      "intellectualPropertyAssetAssignmentTransaction" : "intellectualPropertyAssetAssignmentTransaction",
+      "intellectualPropertyAssetAssignmentType" : "intellectualPropertyAssetAssignmentType",
+      "documentDirectoryEntryInstanceReference" : "779072",
+      "intellectualPropertyAssetAssignmentDescription" : "intellectualPropertyAssetAssignmentDescription"
+    }
+  },
+  "assignmentRequestRecordReference" : "ARRR724462",
+  "assignmentRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "assignmentRequestActionTaskReference" : "ARATR781463"
+}
